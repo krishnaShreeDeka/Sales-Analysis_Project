@@ -33,9 +33,15 @@ The objective is not just reporting metrics, but identifying business problems, 
 + Loyalty tier contribution
 + Customer segmentation insights
 
-![alt text](<01 Overview.png>)
-![alt text](<02 Product Analysis.png>)
-![alt text](<03 Customer Summary.png>)
+## Overview 
+<img width="1373" height="800" alt="01 Overview" src="https://github.com/user-attachments/assets/11900e2b-609d-45b0-8495-ef6079cb92fb" />
+
+## Product Analysis
+<img width="1389" height="798" alt="02 Product Analysis" src="https://github.com/user-attachments/assets/37242821-83f6-4155-87c1-4392d2c58388" />
+
+## Customer Demographic 
+<img width="1373" height="792" alt="03 Customer Summary" src="https://github.com/user-attachments/assets/22735139-636b-41f6-9743-fb4855895420" />
+
 
 ## 🔍 Key Business Insights
 ## 🌍 Revenue Distribution
@@ -52,7 +58,7 @@ The objective is not just reporting metrics, but identifying business problems, 
 + Indicates portfolio imbalance
 
 ## 👥 Customer Insights
-	• The majority of customers generate substantial revenue, indicating a strong high-value customer base
++ The majority of customers generate substantial revenue, indicating a strong high-value customer base
 
 ## 🎯 Loyalty Program Analysis
 + Bronze tier contributes ~60% of revenue
